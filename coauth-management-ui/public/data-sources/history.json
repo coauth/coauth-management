@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "amount": "37,553",
+      "account": "",
+      "name": "Time Based OTP",
+      "date": "",
+      "type": "View",
+      "business": ""
+    },
+    {
+      "amount": "47,026",
+      "account": "",
+      "name": "Re-confirm Text",
+      "date": "",
+      "type": "View",
+      "business": ""
+    },
+    {
+      "amount": "97,134",
+      "account": "63189893",
+      "name": "Regular OTP",
+      "date": "",
+      "type": "View",
+      "business": ""
+    },
+    {
+      "amount": "65,347",
+      "account": "",
+      "name": "Voice OTP",
+      "date": "",
+      "type": "View",
+      "business": ""
+    },
+    {
+      "amount": "93,026",
+      "account": "",
+      "name": "Dynamic Access Codes",
+      "date": "",
+      "type": "View",
+      "business": ""
+    },
+    {
+      "amount": "12,023",
+      "account": "63189893",
+      "name": "Security questions",
+      "date": "",
+      "type": "View",
+      "business": ""
+    }
+  ]
+}
